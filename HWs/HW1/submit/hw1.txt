@@ -1,0 +1,5 @@
+# Assigned Serach Engine: Yahoo!
+
+The results shows that Yahoo! search engine did not perform favorably when compared to Google.
+With a 'Averages Percent Overlap' of 22.1% on the Yahoo!, it implies that, among those 100 searches, Yahoo! exhibited a notably low level of similarity in results compared to Google.
+Additionally, the negative 'Spearman Coefficient' of -5.090678571428571 indicates a significant lack of correlation in the search results. These statistics highlight a disparity in how the relevance of websites to user queries is assessed and how the results are ranked between the two search engines.
